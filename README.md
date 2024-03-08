@@ -1,2 +1,3 @@
 # codecrackers
-REAL ESTATE LISTING AND PROPERTY MANAGMENT
+Capacity building, performance assessment and motivation driven tool for faculty upgradation
+
